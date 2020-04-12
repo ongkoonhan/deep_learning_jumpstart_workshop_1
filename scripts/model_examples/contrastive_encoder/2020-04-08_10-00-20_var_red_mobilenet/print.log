@@ -1,0 +1,226 @@
+2020-04-08_10:00:20 ModelSaveAndLogHandler INFO -- Description: Candidates: 5, Encoding: 128, Projection: None
+2020-04-08_10:00:20 ModelSaveAndLogHandler INFO -- Base Model: mobileNetV2
+2020-04-08_10:00:20 ModelSaveAndLogHandler INFO -- With Intra Class Variance Reduction
+2020-04-08_10:00:20 ModelSaveAndLogHandler INFO -- Continued from 2020-04-08_02-34-53
+2020-04-08_10:00:20 ModelSaveAndLogHandler INFO -- Epoch 0/29
+2020-04-08_10:00:20 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:00:20 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:04:18 ModelSaveAndLogHandler INFO -- train Loss: 1.1767 Acc: 0.5714
+2020-04-08_10:04:32 ModelSaveAndLogHandler INFO -- val Loss: 1.1705 Acc: 0.5754
+2020-04-08_10:04:32 ModelSaveAndLogHandler INFO -- Time taken is 252 seconds
+2020-04-08_10:04:32 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:04:32 ModelSaveAndLogHandler INFO -- Epoch 1/29
+2020-04-08_10:04:32 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:04:32 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:08:10 ModelSaveAndLogHandler INFO -- train Loss: 1.1712 Acc: 0.5855
+2020-04-08_10:08:26 ModelSaveAndLogHandler INFO -- val Loss: 1.1573 Acc: 0.5985
+2020-04-08_10:08:26 ModelSaveAndLogHandler INFO -- MODEL SAVED
+2020-04-08_10:08:29 ModelSaveAndLogHandler INFO -- MODEL SAVED (MOBILE)
+2020-04-08_10:08:29 ModelSaveAndLogHandler INFO -- Time taken is 236 seconds
+2020-04-08_10:08:29 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:08:29 ModelSaveAndLogHandler INFO -- Epoch 2/29
+2020-04-08_10:08:29 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:08:29 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:11:50 ModelSaveAndLogHandler INFO -- train Loss: 1.1814 Acc: 0.5559
+2020-04-08_10:12:05 ModelSaveAndLogHandler INFO -- val Loss: 1.1625 Acc: 0.6105
+2020-04-08_10:12:05 ModelSaveAndLogHandler INFO -- MODEL SAVED
+2020-04-08_10:12:09 ModelSaveAndLogHandler INFO -- MODEL SAVED (MOBILE)
+2020-04-08_10:12:09 ModelSaveAndLogHandler INFO -- Time taken is 219 seconds
+2020-04-08_10:12:09 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:12:09 ModelSaveAndLogHandler INFO -- Epoch 3/29
+2020-04-08_10:12:09 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:12:09 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:15:39 ModelSaveAndLogHandler INFO -- train Loss: 1.1807 Acc: 0.5779
+2020-04-08_10:15:55 ModelSaveAndLogHandler INFO -- val Loss: 1.1798 Acc: 0.5865
+2020-04-08_10:15:55 ModelSaveAndLogHandler INFO -- Time taken is 226 seconds
+2020-04-08_10:15:55 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:15:55 ModelSaveAndLogHandler INFO -- Epoch 4/29
+2020-04-08_10:15:55 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:15:55 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:19:52 ModelSaveAndLogHandler INFO -- train Loss: 1.1636 Acc: 0.5739
+2020-04-08_10:20:08 ModelSaveAndLogHandler INFO -- val Loss: 1.1675 Acc: 0.5995
+2020-04-08_10:20:08 ModelSaveAndLogHandler INFO -- Time taken is 252 seconds
+2020-04-08_10:20:08 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:20:08 ModelSaveAndLogHandler INFO -- Epoch 5/29
+2020-04-08_10:20:08 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:20:08 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:23:35 ModelSaveAndLogHandler INFO -- train Loss: 1.1759 Acc: 0.5684
+2020-04-08_10:23:50 ModelSaveAndLogHandler INFO -- val Loss: 1.1605 Acc: 0.5925
+2020-04-08_10:23:50 ModelSaveAndLogHandler INFO -- Time taken is 222 seconds
+2020-04-08_10:23:50 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:23:50 ModelSaveAndLogHandler INFO -- Epoch 6/29
+2020-04-08_10:23:50 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:23:50 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:27:18 ModelSaveAndLogHandler INFO -- train Loss: 1.1685 Acc: 0.5860
+2020-04-08_10:27:34 ModelSaveAndLogHandler INFO -- val Loss: 1.1626 Acc: 0.6040
+2020-04-08_10:27:34 ModelSaveAndLogHandler INFO -- Time taken is 224 seconds
+2020-04-08_10:27:34 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:27:34 ModelSaveAndLogHandler INFO -- Epoch 7/29
+2020-04-08_10:27:34 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:27:34 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:31:35 ModelSaveAndLogHandler INFO -- train Loss: 1.1832 Acc: 0.5789
+2020-04-08_10:31:50 ModelSaveAndLogHandler INFO -- val Loss: 1.1760 Acc: 0.6251
+2020-04-08_10:31:50 ModelSaveAndLogHandler INFO -- MODEL SAVED
+2020-04-08_10:31:54 ModelSaveAndLogHandler INFO -- MODEL SAVED (MOBILE)
+2020-04-08_10:31:54 ModelSaveAndLogHandler INFO -- Time taken is 259 seconds
+2020-04-08_10:31:54 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:31:54 ModelSaveAndLogHandler INFO -- Epoch 8/29
+2020-04-08_10:31:54 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:31:54 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:35:26 ModelSaveAndLogHandler INFO -- train Loss: 1.1721 Acc: 0.5689
+2020-04-08_10:35:41 ModelSaveAndLogHandler INFO -- val Loss: 1.1633 Acc: 0.6140
+2020-04-08_10:35:41 ModelSaveAndLogHandler INFO -- Time taken is 226 seconds
+2020-04-08_10:35:41 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:35:41 ModelSaveAndLogHandler INFO -- Epoch 9/29
+2020-04-08_10:35:41 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:35:41 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:39:13 ModelSaveAndLogHandler INFO -- train Loss: 1.1484 Acc: 0.6070
+2020-04-08_10:39:28 ModelSaveAndLogHandler INFO -- val Loss: 1.1536 Acc: 0.6180
+2020-04-08_10:39:28 ModelSaveAndLogHandler INFO -- Time taken is 227 seconds
+2020-04-08_10:39:28 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:39:28 ModelSaveAndLogHandler INFO -- Epoch 10/29
+2020-04-08_10:39:28 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:39:28 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:43:28 ModelSaveAndLogHandler INFO -- train Loss: 1.1702 Acc: 0.5895
+2020-04-08_10:43:43 ModelSaveAndLogHandler INFO -- val Loss: 1.1486 Acc: 0.6371
+2020-04-08_10:43:43 ModelSaveAndLogHandler INFO -- MODEL SAVED
+2020-04-08_10:43:47 ModelSaveAndLogHandler INFO -- MODEL SAVED (MOBILE)
+2020-04-08_10:43:47 ModelSaveAndLogHandler INFO -- Time taken is 258 seconds
+2020-04-08_10:43:47 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:43:47 ModelSaveAndLogHandler INFO -- Epoch 11/29
+2020-04-08_10:43:47 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:43:47 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:47:32 ModelSaveAndLogHandler INFO -- train Loss: 1.1588 Acc: 0.5945
+2020-04-08_10:47:46 ModelSaveAndLogHandler INFO -- val Loss: 1.1603 Acc: 0.6130
+2020-04-08_10:47:46 ModelSaveAndLogHandler INFO -- Time taken is 239 seconds
+2020-04-08_10:47:46 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:47:46 ModelSaveAndLogHandler INFO -- Epoch 12/29
+2020-04-08_10:47:46 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:47:46 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:51:10 ModelSaveAndLogHandler INFO -- train Loss: 1.1757 Acc: 0.5674
+2020-04-08_10:51:25 ModelSaveAndLogHandler INFO -- val Loss: 1.1753 Acc: 0.6120
+2020-04-08_10:51:25 ModelSaveAndLogHandler INFO -- Time taken is 218 seconds
+2020-04-08_10:51:25 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:51:25 ModelSaveAndLogHandler INFO -- Epoch 13/29
+2020-04-08_10:51:25 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:51:25 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:54:57 ModelSaveAndLogHandler INFO -- train Loss: 1.1533 Acc: 0.6095
+2020-04-08_10:55:13 ModelSaveAndLogHandler INFO -- val Loss: 1.1942 Acc: 0.6135
+2020-04-08_10:55:13 ModelSaveAndLogHandler INFO -- Time taken is 227 seconds
+2020-04-08_10:55:13 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:55:13 ModelSaveAndLogHandler INFO -- Epoch 14/29
+2020-04-08_10:55:13 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:55:13 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_10:59:13 ModelSaveAndLogHandler INFO -- train Loss: 1.1758 Acc: 0.5744
+2020-04-08_10:59:27 ModelSaveAndLogHandler INFO -- val Loss: 1.1601 Acc: 0.6050
+2020-04-08_10:59:27 ModelSaveAndLogHandler INFO -- Time taken is 253 seconds
+2020-04-08_10:59:27 ModelSaveAndLogHandler INFO -- 
+2020-04-08_10:59:27 ModelSaveAndLogHandler INFO -- Epoch 15/29
+2020-04-08_10:59:27 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_10:59:27 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:02:57 ModelSaveAndLogHandler INFO -- train Loss: 1.1765 Acc: 0.5749
+2020-04-08_11:03:12 ModelSaveAndLogHandler INFO -- val Loss: 1.1513 Acc: 0.6105
+2020-04-08_11:03:12 ModelSaveAndLogHandler INFO -- Time taken is 225 seconds
+2020-04-08_11:03:12 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:03:12 ModelSaveAndLogHandler INFO -- Epoch 16/29
+2020-04-08_11:03:12 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:03:12 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:06:41 ModelSaveAndLogHandler INFO -- train Loss: 1.1642 Acc: 0.5900
+2020-04-08_11:06:56 ModelSaveAndLogHandler INFO -- val Loss: 1.1619 Acc: 0.6160
+2020-04-08_11:06:56 ModelSaveAndLogHandler INFO -- Time taken is 223 seconds
+2020-04-08_11:06:56 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:06:56 ModelSaveAndLogHandler INFO -- Epoch 17/29
+2020-04-08_11:06:56 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:06:56 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:10:46 ModelSaveAndLogHandler INFO -- train Loss: 1.1652 Acc: 0.5985
+2020-04-08_11:11:02 ModelSaveAndLogHandler INFO -- val Loss: 1.1446 Acc: 0.6306
+2020-04-08_11:11:02 ModelSaveAndLogHandler INFO -- Time taken is 245 seconds
+2020-04-08_11:11:02 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:11:02 ModelSaveAndLogHandler INFO -- Epoch 18/29
+2020-04-08_11:11:02 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:11:02 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:14:28 ModelSaveAndLogHandler INFO -- train Loss: 1.1652 Acc: 0.6040
+2020-04-08_11:14:44 ModelSaveAndLogHandler INFO -- val Loss: 1.1573 Acc: 0.6251
+2020-04-08_11:14:44 ModelSaveAndLogHandler INFO -- Time taken is 222 seconds
+2020-04-08_11:14:44 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:14:44 ModelSaveAndLogHandler INFO -- Epoch 19/29
+2020-04-08_11:14:44 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:14:44 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:18:47 ModelSaveAndLogHandler INFO -- train Loss: 1.1688 Acc: 0.5875
+2020-04-08_11:19:02 ModelSaveAndLogHandler INFO -- val Loss: 1.1592 Acc: 0.6135
+2020-04-08_11:19:02 ModelSaveAndLogHandler INFO -- Time taken is 257 seconds
+2020-04-08_11:19:02 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:19:02 ModelSaveAndLogHandler INFO -- Epoch 20/29
+2020-04-08_11:19:02 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:19:02 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:22:37 ModelSaveAndLogHandler INFO -- train Loss: 1.1640 Acc: 0.5865
+2020-04-08_11:22:50 ModelSaveAndLogHandler INFO -- val Loss: 1.1547 Acc: 0.5980
+2020-04-08_11:22:50 ModelSaveAndLogHandler INFO -- Time taken is 227 seconds
+2020-04-08_11:22:50 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:22:50 ModelSaveAndLogHandler INFO -- Epoch 21/29
+2020-04-08_11:22:50 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:22:50 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:26:17 ModelSaveAndLogHandler INFO -- train Loss: 1.1753 Acc: 0.5940
+2020-04-08_11:26:33 ModelSaveAndLogHandler INFO -- val Loss: 1.1449 Acc: 0.6311
+2020-04-08_11:26:33 ModelSaveAndLogHandler INFO -- Time taken is 223 seconds
+2020-04-08_11:26:33 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:26:33 ModelSaveAndLogHandler INFO -- Epoch 22/29
+2020-04-08_11:26:33 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:26:33 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:30:42 ModelSaveAndLogHandler INFO -- train Loss: 1.1627 Acc: 0.6180
+2020-04-08_11:30:56 ModelSaveAndLogHandler INFO -- val Loss: 1.1484 Acc: 0.6231
+2020-04-08_11:30:56 ModelSaveAndLogHandler INFO -- Time taken is 262 seconds
+2020-04-08_11:30:56 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:30:56 ModelSaveAndLogHandler INFO -- Epoch 23/29
+2020-04-08_11:30:56 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:30:56 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:34:31 ModelSaveAndLogHandler INFO -- train Loss: 1.1521 Acc: 0.6110
+2020-04-08_11:34:46 ModelSaveAndLogHandler INFO -- val Loss: 1.1423 Acc: 0.6321
+2020-04-08_11:34:46 ModelSaveAndLogHandler INFO -- Time taken is 229 seconds
+2020-04-08_11:34:46 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:34:46 ModelSaveAndLogHandler INFO -- Epoch 24/29
+2020-04-08_11:34:46 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:34:46 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:38:20 ModelSaveAndLogHandler INFO -- train Loss: 1.1637 Acc: 0.5970
+2020-04-08_11:38:36 ModelSaveAndLogHandler INFO -- val Loss: 1.1500 Acc: 0.6301
+2020-04-08_11:38:36 ModelSaveAndLogHandler INFO -- Time taken is 230 seconds
+2020-04-08_11:38:36 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:38:36 ModelSaveAndLogHandler INFO -- Epoch 25/29
+2020-04-08_11:38:36 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:38:36 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:42:40 ModelSaveAndLogHandler INFO -- train Loss: 1.1566 Acc: 0.5860
+2020-04-08_11:42:55 ModelSaveAndLogHandler INFO -- val Loss: 1.1506 Acc: 0.6105
+2020-04-08_11:42:55 ModelSaveAndLogHandler INFO -- Time taken is 258 seconds
+2020-04-08_11:42:55 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:42:55 ModelSaveAndLogHandler INFO -- Epoch 26/29
+2020-04-08_11:42:55 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:42:55 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:46:30 ModelSaveAndLogHandler INFO -- train Loss: 1.1454 Acc: 0.6211
+2020-04-08_11:46:45 ModelSaveAndLogHandler INFO -- val Loss: 1.1487 Acc: 0.6411
+2020-04-08_11:46:45 ModelSaveAndLogHandler INFO -- MODEL SAVED
+2020-04-08_11:46:49 ModelSaveAndLogHandler INFO -- MODEL SAVED (MOBILE)
+2020-04-08_11:46:49 ModelSaveAndLogHandler INFO -- Time taken is 233 seconds
+2020-04-08_11:46:49 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:46:49 ModelSaveAndLogHandler INFO -- Epoch 27/29
+2020-04-08_11:46:49 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:46:49 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:50:07 ModelSaveAndLogHandler INFO -- train Loss: 1.1567 Acc: 0.6105
+2020-04-08_11:50:21 ModelSaveAndLogHandler INFO -- val Loss: 1.1395 Acc: 0.6331
+2020-04-08_11:50:21 ModelSaveAndLogHandler INFO -- Time taken is 212 seconds
+2020-04-08_11:50:21 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:50:21 ModelSaveAndLogHandler INFO -- Epoch 28/29
+2020-04-08_11:50:21 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:50:21 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:54:11 ModelSaveAndLogHandler INFO -- train Loss: 1.1523 Acc: 0.6246
+2020-04-08_11:54:26 ModelSaveAndLogHandler INFO -- val Loss: 1.1451 Acc: 0.6241
+2020-04-08_11:54:26 ModelSaveAndLogHandler INFO -- Time taken is 245 seconds
+2020-04-08_11:54:26 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:54:26 ModelSaveAndLogHandler INFO -- Epoch 29/29
+2020-04-08_11:54:26 ModelSaveAndLogHandler INFO -- ----------
+2020-04-08_11:54:26 ModelSaveAndLogHandler INFO -- -- variance reduction
+2020-04-08_11:58:26 ModelSaveAndLogHandler INFO -- train Loss: 1.1532 Acc: 0.6321
+2020-04-08_11:58:40 ModelSaveAndLogHandler INFO -- val Loss: 1.1591 Acc: 0.6311
+2020-04-08_11:58:40 ModelSaveAndLogHandler INFO -- Time taken is 253 seconds
+2020-04-08_11:58:40 ModelSaveAndLogHandler INFO -- 
+2020-04-08_11:58:40 ModelSaveAndLogHandler INFO -- Training complete in 118m 20s
+2020-04-08_11:58:40 ModelSaveAndLogHandler INFO -- Best val Acc: 0.641103
